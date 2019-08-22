@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
   array.each_with_index do |item, i|
-    puts item
+    puts i item
   end
 end
 
